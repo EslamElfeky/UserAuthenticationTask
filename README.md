@@ -63,5 +63,4 @@ The system automatically handles the following:
 
 ---
 
-Would you like me to include **installation instructions**, **architecture diagram**, or **API integration** setup next?
 
